@@ -29,6 +29,7 @@ let tb = (diemAnh + diemToan + diemVan) / 3;
 //làm tròn kết quả 2 chữ số sau dấu phẩy
 tb = tb.toFixed(2);
 console.log(tb);
+console.log("Thêm vào nha");
 
 //hàm ceil() (trần): làm tròn lên số nguyên gần nhất
 //hàm floor() (sàn): làm tròn xuống số nguyên gần nhất
